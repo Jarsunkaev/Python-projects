@@ -1,2 +1,2 @@
 # Python-projects
-Just a simple game, for a pygame project.
+Just a few of my projects in python.
